@@ -5,5 +5,16 @@ Requirements:
 2. Commit all code to a public version­control repository of your choice (e.g. Github) and provide usage instructions.
 EXTRA: Write automated infrastructure tests to verify the environment works as expected
 
-Solution is an AWS hosted URL (HOSTNAME) that will provision environment and return the URL of the hosted page.
-C# .net 
+I am primary a Microsoft stack developer so i came at it form that angle. However, I am perfectly capable of calling AWS API from any platform.
+
+Solution is a windows forms app that creates a stack based on CloudFormation template.
+
+Instructions:
+1. unzip infiniti-demo.zip to a locaton of your choice on a Windows OS.
+2. Run Infiniti_AWS.application
+3. Enter desired Stack Name
+4. Click Launch Environment
+5. Will take about 90 seconds to complete
+6. A link to the create stack infiniti url is displayed.
+
+

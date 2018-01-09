@@ -19,5 +19,5 @@ Instructions:
 7. click link to go to the provisioned stack home page.
 
 
-the JSON for the template is included in the library. You can run this from a aws cmd prompt or aws console
+In the event your corp virus software wont allow click-once applications, the JSON for the template is included in the library. You can run this from a aws cmd prompt or aws console with this command
 aws cloudformation create-stack --stack-name infinitimini --template-body file://infiniti.template

@@ -19,3 +19,5 @@ Instructions:
 7. click link to go to the provisioned stack home page.
 
 
+the JSON for the template is included in the library. You can run this from a aws cmd prompt or aws console
+aws cloudformation create-stack --stack-name infinitimini --template-body file://infiniti.template

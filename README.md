@@ -5,7 +5,7 @@ Requirements:
 2. Commit all code to a public version­control repository of your choice (e.g. Github) and provide usage instructions.
 EXTRA: Write automated infrastructure tests to verify the environment works as expected
 
-I am primary a Microsoft stack developer so i came at it form that angle. However, I am perfectly capable of calling AWS API from any platform.
+I am primary a Microsoft stack developer so i came at it from that angle. However, I am perfectly capable of calling AWS API from any platform. If you would like a bash .sh file or a script to run on the AWS console I can provide that as well.
 
 Solution is a windows forms app that creates a stack based on CloudFormation template.
 

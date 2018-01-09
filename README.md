@@ -15,7 +15,7 @@ Instructions:
 3. Enter desired Stack Name (validation conforms to AWS)
 4. Click Launch Environment
 5. Will take about 90 seconds to complete
-6. EXTRA: A link to the creates stack url is displayed at the bottom.
-7. Newly provisioned stack home page is presented
+6. EXTRA: A link to the created stack url is displayed at the bottom.
+7. click link to go to the provisioned stack home page.
 
 

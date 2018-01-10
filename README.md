@@ -7,9 +7,9 @@ EXTRA: Write automated infrastructure tests to verify the environment works as e
 
 I am primarily a Microsoft stack developer so i came at it from that angle. However, I am perfectly capable of calling AWS API from any platform. If you would like a bash .sh file or a script to run on the AWS console I can provide that as well. 
 
-# Solution is a windows forms app that creates a stack based on Cloudformation template.
+;Solution is a windows forms app that creates a stack based on Cloudformation template.
 
-# Instructions:
+;Instructions:
 1. unzip infiniti-demo.zip to a locaton of your choice on a Windows OS.
 2. Run Infiniti_AWS.application
 3. Enter desired Stack Name (validation conforms to AWS)

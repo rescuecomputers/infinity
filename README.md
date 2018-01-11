@@ -21,3 +21,5 @@ I am primarily a Microsoft stack developer so i came at it from that angle. Howe
 
 In the event your corp virus software wont allow click-once applications, the JSON for the template is included in the library. You can run this from a aws cmd prompt or aws console with this command
 aws cloudformation create-stack --stack-name infinitimini --template-body file://infiniti.template --parameters  ParameterKey=DBName,ParameterValue=infinitiDB ParameterKey=DBPassword,ParameterValue=infinitiDB ParameterKey=DBRootPassword,ParameterValue=infinitiDB ParameterKey=DBUser,ParameterValue=infiniti ParameterKey=KeyName,ParameterValue=infinityKeyPair ParameterKey=InstanceType,ParameterValue=t1.micro ParameterKey=SSHLocation,ParameterValue=0.0.0.0/0
+
+I have included a .bat file that will create the stack in this library. 
